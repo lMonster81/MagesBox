@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "d:\\Project\\MagesBox\\MagesBoxUnity\\obj\\Debug\\project.razor.json",
+  "FilePath": "d:\\Project\\MagesBox\\MagesBoxUnity\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
